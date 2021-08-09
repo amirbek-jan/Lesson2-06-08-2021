@@ -6,8 +6,8 @@ namespace Lesson2ConsoleApp
     {
         static void Main(string[] args)
         {
-            /*
-            Первое ДЗ
+            
+           // Первое ДЗ
            int a = int.Parse(Console.ReadLine());
            int b = int.Parse(Console.ReadLine());
 
@@ -23,10 +23,10 @@ namespace Lesson2ConsoleApp
                else {
                    Console.WriteLine($"0 0");
                }
-               */
+            
 
-                /*
-                Второе ДЗ
+                
+               // Второе ДЗ
                int operand1 = int.Parse(Console.ReadLine());
                string sign = Console.ReadLine();
                int operand2 = int.Parse(Console.ReadLine());
@@ -56,8 +56,8 @@ namespace Lesson2ConsoleApp
                 }
                 */
 
-                /*
-                Третье ДЗ
+                
+               // Третье ДЗ
                int num = int.Parse(Console.ReadLine());
                if (num >= 0 && num <= 14) {
                    Console.WriteLine($"[0 - 14]");
@@ -70,7 +70,7 @@ namespace Lesson2ConsoleApp
                } else {
                    Console.WriteLine($"ERROR");
                }
-               */
+               
         }
     }
 }
