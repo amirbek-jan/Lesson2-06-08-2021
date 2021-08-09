@@ -54,7 +54,7 @@ namespace Lesson2ConsoleApp
                         Console.WriteLine(operand1 / operand2);
                     }
                 }
-                */
+                
 
                 
                // Третье ДЗ
